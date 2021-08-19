@@ -4,4 +4,5 @@ Bu projemde oluşturmuş olduğum hazır veritabanından  kelime çekerek ve kul
 **RecyclerView** kullanarak  kelimelerimi listeledim<br>
 **SearcView** kütüphanesinden yaralanarak kelimeleri toolbar üzerinde arama özeliği oluşturdum.<br>
 **Text to speech** kütüphanesini kullanarak kelimeleri ingilizce telaffuz ettirdim.<br>
-![baslangic ekran](https://github.com/aliyayman/fourclassdictionary/blob/master/app/src/main/res/drawable/resim1.png)
+![baslangic ekran](https://github.com/aliyayman/fourclassdictionary/blob/master/app/src/main/res/drawable/resim1.png)<br>
+![baslangic ekran](https://github.com/aliyayman/fourclassdictionary/blob/master/app/src/main/res/drawable/resim2.png)<br>
