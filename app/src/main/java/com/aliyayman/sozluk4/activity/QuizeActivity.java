@@ -1,4 +1,4 @@
-package com.aliyayman.sozluk4.Activitys;
+package com.aliyayman.sozluk4.activity;
 
 import androidx.appcompat.app.AppCompatActivity;
 
@@ -9,9 +9,9 @@ import android.widget.Button;
 import android.widget.TextView;
 import android.widget.Toast;
 
-import com.aliyayman.sozluk4.Dao.KelimelerDao;
-import com.aliyayman.sozluk4.Entity.Database.Veritabani;
-import com.aliyayman.sozluk4.Entity.Kelimeler;
+import com.aliyayman.sozluk4.dao.KelimelerDao;
+import com.aliyayman.sozluk4.database.Veritabani;
+import com.aliyayman.sozluk4.model.Kelimeler;
 import com.aliyayman.sozluk4.R;
 
 import java.util.ArrayList;

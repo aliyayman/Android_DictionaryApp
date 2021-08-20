@@ -1,4 +1,4 @@
-package com.aliyayman.sozluk4.Entity;
+package com.aliyayman.sozluk4.model;
 
 import java.io.Serializable;
 

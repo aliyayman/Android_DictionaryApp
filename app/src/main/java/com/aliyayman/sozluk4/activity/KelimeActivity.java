@@ -1,4 +1,4 @@
-package com.aliyayman.sozluk4.Activitys;
+package com.aliyayman.sozluk4.activity;
 
 import androidx.appcompat.app.AlertDialog;
 import androidx.appcompat.app.AppCompatActivity;
@@ -16,11 +16,11 @@ import android.view.MenuItem;
 import android.view.View;
 import android.widget.EditText;
 
-import com.aliyayman.sozluk4.Adapter.KelimeAdapter;
-import com.aliyayman.sozluk4.Dao.KelimelerDao;
-import com.aliyayman.sozluk4.Entity.Database.Veritabani;
-import com.aliyayman.sozluk4.Entity.Kelimeler;
-import com.aliyayman.sozluk4.Entity.Uniteler;
+import com.aliyayman.sozluk4.adapter.KelimeAdapter;
+import com.aliyayman.sozluk4.dao.KelimelerDao;
+import com.aliyayman.sozluk4.database.Veritabani;
+import com.aliyayman.sozluk4.model.Kelimeler;
+import com.aliyayman.sozluk4.model.Uniteler;
 import com.aliyayman.sozluk4.R;
 import com.google.android.material.floatingactionbutton.FloatingActionButton;
 

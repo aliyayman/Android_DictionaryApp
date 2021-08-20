@@ -4,23 +4,23 @@
 
     <application
         android:allowBackup="true"
-        android:icon="@mipmap/ic_launcher"
+        android:icon="@mipmap/mavi_icon"
         android:label="@string/app_name"
-        android:roundIcon="@mipmap/ic_launcher_round"
+        android:roundIcon="@mipmap/mavi_icon_round"
         android:supportsRtl="true"
         android:theme="@style/Theme.Sozluk4">
-        <activity android:name=".Activitys.SplashActivity">
+        <activity android:name=".activity.SplashActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity android:name=".Activitys.QuizeActivity" />
-        <activity android:name=".Activitys.ResultActivity" />
-        <activity android:name=".Activitys.QuizeAnaActivity" />
-        <activity android:name=".Activitys.KelimeActivity" />
-        <activity android:name=".Activitys.MainActivity">
+        <activity android:name=".activity.QuizeActivity" />
+        <activity android:name=".activity.ResultActivity" />
+        <activity android:name=".activity.QuizeAnaActivity" />
+        <activity android:name=".activity.KelimeActivity" />
+        <activity android:name=".activity.MainActivity">
 
         </activity>
     </application>

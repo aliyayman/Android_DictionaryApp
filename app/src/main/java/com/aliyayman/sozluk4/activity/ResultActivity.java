@@ -1,4 +1,4 @@
-package com.aliyayman.sozluk4.Activitys;
+package com.aliyayman.sozluk4.activity;
 
 import androidx.appcompat.app.AppCompatActivity;
 

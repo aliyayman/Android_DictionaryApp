@@ -1,4 +1,4 @@
-    package com.aliyayman.sozluk4.Adapter;
+    package com.aliyayman.sozluk4.adapter;
 
 import android.content.Context;
 import android.content.DialogInterface;
@@ -18,9 +18,9 @@ import androidx.annotation.NonNull;
 import androidx.appcompat.app.AlertDialog;
 import androidx.recyclerview.widget.RecyclerView;
 
-import com.aliyayman.sozluk4.Dao.KelimelerDao;
-import com.aliyayman.sozluk4.Entity.Database.Veritabani;
-import com.aliyayman.sozluk4.Entity.Kelimeler;
+import com.aliyayman.sozluk4.dao.KelimelerDao;
+import com.aliyayman.sozluk4.database.Veritabani;
+import com.aliyayman.sozluk4.model.Kelimeler;
 import com.aliyayman.sozluk4.R;
 
 import java.util.List;

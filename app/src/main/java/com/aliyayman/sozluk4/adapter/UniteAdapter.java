@@ -1,4 +1,4 @@
-package com.aliyayman.sozluk4.Adapter;
+package com.aliyayman.sozluk4.adapter;
 
 import android.content.Context;
 import android.content.Intent;
@@ -11,8 +11,8 @@ import androidx.annotation.NonNull;
 import androidx.cardview.widget.CardView;
 import androidx.recyclerview.widget.RecyclerView;
 
-import com.aliyayman.sozluk4.Entity.Uniteler;
-import com.aliyayman.sozluk4.Activitys.KelimeActivity;
+import com.aliyayman.sozluk4.model.Uniteler;
+import com.aliyayman.sozluk4.activity.KelimeActivity;
 import com.aliyayman.sozluk4.R;
 
 import java.util.List;

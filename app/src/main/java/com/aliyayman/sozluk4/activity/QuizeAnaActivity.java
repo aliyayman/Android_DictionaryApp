@@ -1,4 +1,4 @@
-package com.aliyayman.sozluk4.Activitys;
+package com.aliyayman.sozluk4.activity;
 
 import androidx.appcompat.app.AppCompatActivity;
 
@@ -7,8 +7,8 @@ import android.os.Bundle;
 import android.view.View;
 import android.widget.Button;
 
-import com.aliyayman.sozluk4.Entity.Database.DatabaseCopyHelper;
-import com.aliyayman.sozluk4.Entity.Database.Veritabani;
+import com.aliyayman.sozluk4.database.DatabaseCopyHelper;
+import com.aliyayman.sozluk4.database.Veritabani;
 import com.aliyayman.sozluk4.R;
 
 import java.io.IOException;

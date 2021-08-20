@@ -1,4 +1,4 @@
-package com.aliyayman.sozluk4.Entity.Database;
+package com.aliyayman.sozluk4.database;
 
 import android.content.Context;
 import android.database.sqlite.SQLiteDatabase;

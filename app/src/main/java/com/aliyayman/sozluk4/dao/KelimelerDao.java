@@ -1,12 +1,12 @@
-package com.aliyayman.sozluk4.Dao;
+package com.aliyayman.sozluk4.dao;
 
 import android.content.ContentValues;
 import android.database.Cursor;
 import android.database.sqlite.SQLiteDatabase;
 
-import com.aliyayman.sozluk4.Entity.Database.Veritabani;
-import com.aliyayman.sozluk4.Entity.Kelimeler;
-import com.aliyayman.sozluk4.Entity.Uniteler;
+import com.aliyayman.sozluk4.database.Veritabani;
+import com.aliyayman.sozluk4.model.Kelimeler;
+import com.aliyayman.sozluk4.model.Uniteler;
 
 import java.util.ArrayList;
 
