@@ -80,7 +80,7 @@
         android:id="@+id/textViewsoru"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_marginBottom="32dp"
+        android:layout_marginBottom="28dp"
         android:text="1.Soru"
         android:textColor="#311B92"
         android:textSize="36sp"
