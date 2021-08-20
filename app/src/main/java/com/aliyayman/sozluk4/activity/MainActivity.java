@@ -2,6 +2,7 @@ package com.aliyayman.sozluk4.activity;
 
 import androidx.appcompat.app.AlertDialog;
 import androidx.appcompat.app.AppCompatActivity;
+import androidx.appcompat.app.AppCompatDelegate;
 import androidx.appcompat.widget.Toolbar;
 import androidx.recyclerview.widget.LinearLayoutManager;
 import androidx.recyclerview.widget.RecyclerView;
@@ -37,6 +38,7 @@ public class MainActivity extends AppCompatActivity {
     private Button button;
 
 
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
@@ -46,6 +48,7 @@ public class MainActivity extends AppCompatActivity {
         rv=findViewById(R.id.rv_kelime);
         fab=findViewById(R.id.fab);
         button=findViewById(R.id.button);
+
 
         button.setOnClickListener(new View.OnClickListener() {
             @Override
@@ -76,6 +79,7 @@ public class MainActivity extends AppCompatActivity {
 
           }
       });
+
 
     }
     public void veritabaniKopyala(){
