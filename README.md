@@ -6,6 +6,8 @@ Bu projemde oluşturmuş olduğum hazır veritabanından  kelime çekerek ve kul
 **Text to speech** kütüphanesini kullanarak kelimeleri ingilizce telaffuz ettirdim.<br>
 <br>
 
+**UYGULAMANIN EKRAN GÖRÜNTÜLERİ**
+
 ![resim1](https://github.com/aliyayman/dictionaryApp/blob/master/app/src/main/res/drawable/resim1_200x400.png)
 ![resim2](https://github.com/aliyayman/dictionaryApp/blob/master/app/src/main/res/drawable/resim2_1_200x400.png)
 ![resim3](https://github.com/aliyayman/dictionaryApp/blob/master/app/src/main/res/drawable/resim3_200x400.png)<br>
