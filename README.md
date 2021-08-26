@@ -1,10 +1,10 @@
 # dictionaryApp
 
-**SQLiteDatabase**<br>
-**RecyclerView**<br>
-**SearcView**<br>
-**Text to speech**<br> 
-**Quize App**
+**=>SQLiteDatabase**<br>
+**=>RecyclerView**<br>
+**=>SearcView**<br>
+**=>Text to speech**<br> 
+**=>Quize App**
 <br>
 
 **ScreenShots**
