@@ -1,9 +1,9 @@
 # dictionaryApp
 
-**SQLiteDatabase** 
-**RecyclerView** 
-**SearcView** 
-**Text to speech** 
+**SQLiteDatabase**<br>
+**RecyclerView**<br>
+**SearcView**<br>
+**Text to speech**<br> 
 **Quize App**
 <br>
 
